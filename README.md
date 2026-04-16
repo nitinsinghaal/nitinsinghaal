@@ -2,13 +2,13 @@
 
 🚀 MCA Student | Aspiring Cybersecurity Engineer
 💻 Passionate about building secure and efficient applications
-🔐 Focused on Cybersecurity, Web Development & AI
+🔐 Focused on Cybersecurity, Web Development & AI.
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Currently pursuing MCA (2nd Semester)
+* 🎓 Currently pursuing MCA (4th Semester)
 * 🔍 Exploring Cybersecurity & Ethical Hacking
 * ⚡ Strong foundation in HTML, CSS, JavaScript & Python
 * 🎯 Goal: To secure a Cybersecurity Internship and build real-world security tools
@@ -20,7 +20,7 @@
 ### 🔐 Password Strength Checker
 
 A smart tool that analyzes password strength based on multiple security parameters like length, uppercase/lowercase usage, numbers, and special characters.
-👉 Focus: Improving user security practices
+👉 Focus: Improving user security practices.
 
 ---
 
