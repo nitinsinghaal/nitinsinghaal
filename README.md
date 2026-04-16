@@ -52,14 +52,6 @@ A personal portfolio website designed as an interactive dashboard showcasing my 
 </p>
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinsinghaal\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsinghaal\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 * 🔐 Building cybersecurity tools
